@@ -52,9 +52,17 @@
 ## 基本面指标
 
 - [市盈率 PE](pe.md)
+- [每股收益 EPS](eps.md)
 - [市净率 PB](pb.md)
 - [净资产收益率 ROE](roe.md)
 - [总资产收益率 ROA](roa.md)
+
+## 市场机制
+
+- [总股本、发行数量与股价](stock_capital.md)
+- [IPO 首次公开募股](ipo.md)
+- [融资（天使/VC/战略投资）](financing.md)
+- [分红与除息](dividend.md)
 
 ## 统计与因子
 

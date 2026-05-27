@@ -22,6 +22,11 @@
 - ~~筹码结构~~ → [chip_distribution.md](chip_distribution.md)
 - ~~QMT~~ → [qmt.md](qmt.md)
 - ~~ML因子挖掘~~ → [ml_factor_mining.md](ml_factor_mining.md)
+- ~~每股收益 EPS~~ → [eps.md](eps.md)
+- ~~总股本与股价~~ → [stock_capital.md](stock_capital.md)
+- ~~IPO~~ → [ipo.md](ipo.md)
+- ~~融资~~ → [financing.md](financing.md)
+- ~~分红与除息~~ → [dividend.md](dividend.md)
 
 ## 待补充
 
